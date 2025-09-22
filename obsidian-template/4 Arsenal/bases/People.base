@@ -1,0 +1,18 @@
+filters:
+  and:
+    - file.tags.contains("People")
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("People")
+  - type: cards
+    name: Display
+    image: note.image
+  - type: cards
+    name: In File
+    filters:
+      and:
+        - this.file.hasLink(file)
+    image: note.image

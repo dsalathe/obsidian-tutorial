@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "8e08db248457453d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d02d72434e06bf88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eab5ec0e53023264",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Arsenal/templates/Delivery.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Delivery"
+            }
+          },
+          {
+            "id": "737628eb341c4b49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Timeline/2 Monthly/2025-09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6483e2bad4d2bb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c37f4b82b41e1d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13e7a7a1cb1492f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "525fde13a2e4285b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c2530eb6f1366730",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "acb299c793a16c44",
+    "type": "split",
+    "children": [
+      {
+        "id": "867525742a02cb8b",
+        "type": "tabs",
+        "dimension": 36.884306987399775,
+        "children": [
+          {
+            "id": "51de028b251cc2ba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "00678e45bd45e627",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 Assets/Dr. John H. Watson.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dr. John H. Watson"
+            }
+          },
+          {
+            "id": "292003ea4b65f4f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 Assets/Dr. John H. Watson.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dr. John H. Watson"
+            }
+          },
+          {
+            "id": "8d4b8bf2398c8469",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "602c99e2d3987201",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d48e905bd93e5dfd",
+        "type": "tabs",
+        "dimension": 27.605956471935855,
+        "children": [
+          {
+            "id": "ce38adc8cfd53bf0",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "4 Arsenal/bases/People.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "People"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f9eaaa5221413566",
+        "type": "tabs",
+        "dimension": 35.50973654066438,
+        "children": [
+          {
+            "id": "ca8b13b4593e22ff",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 366.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "737628eb341c4b49",
+  "lastOpenFiles": [
+    "3 Timeline/1 Daily/2025-09-24.md",
+    "3 Timeline/1 Daily/2025-09-23.md",
+    "1 Delivery/Vanishing Venture Capital/Meetings/2025-09-22 Kick-off.md",
+    "2 Assets/People/Dr. John H. Watson.md",
+    "3 Timeline/2 Monthly/2025-09.md",
+    "4 Arsenal/templates/Monthly.md",
+    "4 Arsenal/templates/Daily.md",
+    "3 Timeline/1 Daily/2025-09-22.md",
+    "4 Arsenal/bases/People.base",
+    "3 Timeline/2025-09-23.md",
+    "3 Timeline/2025-09-22.md",
+    "3 Timeline/2025-09-21.md",
+    "3 Timeline/2 Monthly",
+    "3 Timeline/1 Daily",
+    "2 Assets/Fictional company - Wikipedia.md",
+    "4 Arsenal/bases/AllFiles.base",
+    "1 Delivery/Vanishing Venture Capital/Vanishing Venture Capital.md",
+    "2 Assets/People/Sherlock Holmes.md",
+    "2 Assets/Venture Capital.md",
+    "4 Arsenal/templates/Delivery.md",
+    "QuickStart.md",
+    "2 Assets/People/Reginald Pumpernickel.md",
+    "4 Arsenal/templates/Meetings.md",
+    "4 Arsenal/templates/People.md",
+    "hey.md",
+    "4 Arsenal/bases",
+    "2 Assets/tp.file - Templater.md",
+    "2 Assets/People/Reginald.md",
+    "1 Delivery/Vanishing Venture Capital/Meetings",
+    "1 Projects/Vanishing Venture Capital/Meetings/2025-09-21 Kick-Off.md",
+    "1 Projects/Vanishing Venture Capital/Meetings",
+    "1 Projects/Vanishing Venture Capital",
+    "1 Projects",
+    "1 Delivery/Vanishing Venture Capital",
+    "2 Assets/People/regi.md",
+    "4 Arsenal/images/reginald.png",
+    "4 Arsenal/images/watson-profile.png"
+  ]
+}
