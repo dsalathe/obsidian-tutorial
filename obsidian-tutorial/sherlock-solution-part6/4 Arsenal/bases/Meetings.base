@@ -1,0 +1,27 @@
+filters:
+  and:
+    - file.tags.contains("Meeting")
+formulas:
+  When: date(date).relative()
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - type
+      - case
+      - attendees
+  - type: table
+    name: Mentioned in
+    order:
+      - file.name
+      - formula.When
+      - type
+      - case
+      - attendees
+    rowHeight: tall
+    columnSize:
+      file.name: 134
+      note.type: 112
+      note.case: 173
+      note.attendees: 194
