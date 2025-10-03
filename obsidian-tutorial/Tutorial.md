@@ -28,6 +28,7 @@ You can read the tutorial on [The Blog - Part 1](https://dsalathe.github.io/blog
 Solution is exposed under folder `sherlock-solution-part1`.
 
 ---
+
 ## Part 2: Structure and Organization of the Vault
 
 You can read the tutorial on [The Blog - Part 2](https://dsalathe.github.io/blog/#/blog/16).
@@ -35,6 +36,7 @@ You can read the tutorial on [The Blog - Part 2](https://dsalathe.github.io/blog
 Solution is exposed under folder `sherlock-solution-part2`.
 
 ---
+
 ## Part 3: Automation & Daily Chronicles
 
 You can read the tutorial on [The Blog - Part 3](https://dsalathe.github.io/blog/#/blog/17).
@@ -42,6 +44,7 @@ You can read the tutorial on [The Blog - Part 3](https://dsalathe.github.io/blog
 Solution is exposed under folder `sherlock-solution-part3`.
 
 ---
+
 ## Part 4: Visual Intelligence & Professional Presentation
 
 You can read the tutorial on [The Blog - Part 4](https://dsalathe.github.io/blog/#/blog/18).
@@ -49,6 +52,7 @@ You can read the tutorial on [The Blog - Part 4](https://dsalathe.github.io/blog
 Solution is exposed under folder `sherlock-solution-part4`.
 
 ---
+
 ## Part 5: Intelligence Networks & Case Resolution
 
 You can read the tutorial on [The Blog - Part 5](https://dsalathe.github.io/blog/#/blog/19).
@@ -56,6 +60,7 @@ You can read the tutorial on [The Blog - Part 5](https://dsalathe.github.io/blog
 Solution is exposed under folder `sherlock-solution-part5`.
 
 ---
+
 ## Part 6: The Ultimate Integration
 
 You can read the tutorial on [The Blog - Part 6](https://dsalathe.github.io/blog/#/blog/20).
@@ -63,6 +68,7 @@ You can read the tutorial on [The Blog - Part 6](https://dsalathe.github.io/blog
 Solution is exposed under folder `sherlock-solution-part6`.
 
 ---
+
 ## Part 7: The AI Detective & Final Mastery
 
 You can read the tutorial on [The Blog - Part 7](https://dsalathe.github.io/blog/#/blog/21).
