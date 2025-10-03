@@ -6,6 +6,7 @@
       {
         "id": "353eacdd0b16969a",
         "type": "tabs",
+        "dimension": 70.47872340425532,
         "children": [
           {
             "id": "c5848aa2f91e481e",
@@ -13,12 +14,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Assets/People/Dr. John H. Watson.md",
+                "file": "2 Assets/People/Dr. John H. Watson.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Dr. John H. Watson"
+            }
+          }
+        ]
+      },
+      {
+        "id": "07685f82be082cd0",
+        "type": "tabs",
+        "dimension": 29.521276595744684,
+        "children": [
+          {
+            "id": "dae0bf666061691b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Assets/People/Dr. John H. Watson.md",
+                "file": "2 Assets/People/Dr. John H. Watson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Assets/People/Dr. John H. Watson.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dr. John H. Watson"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
@@ -142,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Assets/People/Dr. John H. Watson.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dr. John H. Watson"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -169,19 +187,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "c5848aa2f91e481e",
+  "active": "25bbb97e8e9caaa8",
   "lastOpenFiles": [
+    "1 Delivery/yodude.txt",
+    "1 Delivery/New Text Document.txt",
+    "4 Arsenal/images",
+    "4 Arsenal/images/watson-profile.png",
+    "2 Assets/People/Sherlock Holmes.md",
+    "2 Assets/People/Dr. John H. Watson.md",
     "Welcome.md",
-    "2. Assets/People/Dr. John H. Watson.md",
     "Obsidian.md",
-    "4. Arsenal/images",
-    "4. Arsenal/images/watson-profile.png",
-    "2. Assets/People/Sherlock Holmes.md",
-    "2. Assets/Concepts",
-    "2. Assets/People",
-    "4. Arsenal",
-    "3. Timeline",
-    "2. Assets",
-    "1. Delivery"
+    "2 Assets/Concepts",
+    "2 Assets/People",
+    "4 Arsenal",
+    "3 Timeline",
+    "2 Assets",
+    "1 Delivery",
+    "Untitled.md"
   ]
 }
