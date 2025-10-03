@@ -1,0 +1,35 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "9oOCvHFMDLDLb79ratK1t",
+      "name": "Red",
+      "value": "#e05252"
+    },
+    {
+      "id": "OY2sPliv8Nqqy5_ByCHn6",
+      "name": "Orange",
+      "value": "#e0b152"
+    },
+    {
+      "id": "LYA0L7Q0UuybC_XF1nuKx",
+      "name": "Green",
+      "value": "#b1e052"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "1 Delivery",
+      "color": "9oOCvHFMDLDLb79ratK1t"
+    },
+    {
+      "path": "2 Assets",
+      "color": "OY2sPliv8Nqqy5_ByCHn6"
+    },
+    {
+      "path": "3 Timeline",
+      "color": "LYA0L7Q0UuybC_XF1nuKx"
+    }
+  ]
+}
