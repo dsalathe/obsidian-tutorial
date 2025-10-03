@@ -4,7 +4,7 @@ Welcome to my minimalist Obsidian template project!
 
 ## Structure
 
-Follow obsidian-tutorial at ![The Blog - Part 1](https://dsalathe.github.io/blog/#/blog/15).
+Follow obsidian-tutorial at [The Blog - Part 1](https://dsalathe.github.io/blog/#/blog/15).
 
 Partial results are in subfolders of `obsidian-tutorial`.
 
