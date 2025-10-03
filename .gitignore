@@ -1,6 +1,3 @@
-obsidian-template/.obsidian/plugins/mcp-tools/bin/mcp-server.exe
-obsidian-template/.obsidian/plugins/mcp-tools/bin/*.exe
-obsidian-template/.obsidian/plugins/*/data.json
-obsidian-template/.obsidian/plugins/mcp-tools/
-sherlock-vault/.obsidian/plugins/*/data.json
-sherlock-vault/.obsidian/plugins/mcp-tools/
+**/.obsidian/plugins/mcp-tools/bin/
+**/.obsidian/plugins/obsidian-local-rest-api/
+sherlock-tutorial/
